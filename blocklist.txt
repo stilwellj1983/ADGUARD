@@ -1,3 +1,4 @@
 ||hotjar.com^
 ||static.hotjar.com^
 ||fastclick.com^
+||ad.doubleclick.net^
